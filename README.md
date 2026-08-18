@@ -7,8 +7,21 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0001-two-sum) |
+| [0622-design-circular-queue](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0622-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
