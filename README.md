@@ -7,11 +7,13 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0622-design-circular-queue](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0622-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -28,9 +30,11 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
