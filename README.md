@@ -10,6 +10,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0622-design-circular-queue](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0622-design-circular-queue) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,16 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Matrix
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
