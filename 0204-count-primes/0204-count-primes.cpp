@@ -7,7 +7,7 @@ public:
 
         vector<bool> is_prime(n, true);
 
-        int count = n / 2;
+        int count = n / 2;  
         is_prime[0] = is_prime[1] = false;
 
         for (int i = 3; i * i < n; i += 2) {
