@@ -12,6 +12,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0053-maximum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0078-subsets) |
+| [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0204-count-primes) |
 | [0622-design-circular-queue](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0622-design-circular-queue) |
 | [1991-find-the-middle-index-in-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1991-find-the-middle-index-in-array) |
@@ -29,6 +30,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | ------- |
 | [0001-two-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -62,6 +64,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | ------- |
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
@@ -126,6 +129,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
@@ -162,8 +166,13 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0053-maximum-subarray) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
