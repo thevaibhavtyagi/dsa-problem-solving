@@ -7,6 +7,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0075-sort-colors) |
@@ -141,6 +142,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
