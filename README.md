@@ -15,6 +15,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0204-count-primes) |
 | [0622-design-circular-queue](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0622-design-circular-queue) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -34,6 +35,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -177,8 +179,17 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0053-maximum-subarray) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
