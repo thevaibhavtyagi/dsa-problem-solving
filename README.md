@@ -7,6 +7,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0053-maximum-subarray) |
@@ -188,6 +189,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
