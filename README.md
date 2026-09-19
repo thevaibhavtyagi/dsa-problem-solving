@@ -22,6 +22,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [2078-two-furthest-houses-with-different-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2615-sum-of-distances](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2615-sum-of-distances) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
@@ -38,6 +39,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2615-sum-of-distances](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2615-sum-of-distances) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -93,6 +95,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1991-find-the-middle-index-in-array) |
+| [2615-sum-of-distances](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2615-sum-of-distances) |
 | [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
 | [3903-smallest-stable-index-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3904-smallest-stable-index-ii) |
