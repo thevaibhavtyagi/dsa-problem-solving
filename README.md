@@ -14,6 +14,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0054-spiral-matrix](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0078-subsets) |
+| [0162-find-peak-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0204-count-primes) |
 | [0622-design-circular-queue](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0622-design-circular-queue) |
@@ -196,6 +197,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
