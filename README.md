@@ -15,6 +15,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0054-spiral-matrix](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0204-count-primes) |
@@ -75,6 +76,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | ------- |
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
 ## Simulation
@@ -153,6 +155,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0234-palindrome-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
