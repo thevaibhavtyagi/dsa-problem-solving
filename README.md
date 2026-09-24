@@ -30,6 +30,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -113,6 +114,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0788-rotated-digits](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0788-rotated-digits) |
 | [0866-prime-palindrome](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0866-prime-palindrome) |
 | [1927-sum-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1927-sum-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
