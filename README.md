@@ -21,6 +21,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0204-count-primes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0204-count-primes) |
 | [0622-design-circular-queue](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -80,6 +81,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0088-merge-sorted-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | ------- |
 | [0053-maximum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,4 +216,24 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
