@@ -22,6 +22,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0204-count-primes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0204-count-primes) |
 | [0622-design-circular-queue](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1991-find-the-middle-index-in-array) |
@@ -107,6 +108,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2615-sum-of-distances](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2615-sum-of-distances) |
 | [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
