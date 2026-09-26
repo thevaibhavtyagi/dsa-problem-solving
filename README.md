@@ -115,6 +115,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0204-count-primes) |
 | [0788-rotated-digits](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0788-rotated-digits) |
 | [0866-prime-palindrome](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0866-prime-palindrome) |
@@ -173,6 +174,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
