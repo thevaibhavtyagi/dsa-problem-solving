@@ -53,6 +53,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0622-design-circular-queue) |
@@ -80,6 +81,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
@@ -161,6 +163,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | ------- |
 | [0075-sort-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0234-palindrome-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
@@ -193,6 +196,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
@@ -225,6 +229,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
