@@ -43,6 +43,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
@@ -70,6 +71,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0657-robot-return-to-origin) |
@@ -225,6 +227,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Heap (Priority Queue)
 |  |
