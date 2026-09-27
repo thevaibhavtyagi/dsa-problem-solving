@@ -47,6 +47,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2615-sum-of-distances](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2615-sum-of-distances) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
@@ -67,6 +68,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0622-design-circular-queue) |
 ## String
 |  |
@@ -74,6 +76,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0003-longest-substring-without-repeating-characters](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0657-robot-return-to-origin) |
 | [1927-sum-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1927-sum-game) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -162,6 +165,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
