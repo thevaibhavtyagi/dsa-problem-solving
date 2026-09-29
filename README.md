@@ -13,6 +13,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0088-merge-sorted-array) |
@@ -86,6 +87,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0148-sort-list) |
@@ -199,6 +201,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
