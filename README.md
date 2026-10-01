@@ -75,6 +75,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
@@ -182,6 +183,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0234-palindrome-linked-list) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -264,6 +266,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
