@@ -76,6 +76,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
@@ -196,6 +197,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0078-subsets) |
 ## Bit Manipulation
@@ -221,6 +223,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0053-maximum-subarray) |
 | [0788-rotated-digits](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0788-rotated-digits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -267,6 +270,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
