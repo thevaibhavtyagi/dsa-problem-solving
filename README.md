@@ -30,6 +30,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [2078-two-furthest-houses-with-different-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2615-sum-of-distances) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
@@ -103,6 +104,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0054-spiral-matrix](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0657-robot-return-to-origin) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
