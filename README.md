@@ -82,6 +82,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1927-sum-game) |
@@ -143,6 +144,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -188,6 +190,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | ------- |
 | [0020-valid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
@@ -227,6 +230,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | ------- |
 | [0022-generate-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0053-maximum-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0788-rotated-digits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -273,6 +277,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | ------- |
 | [0020-valid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
