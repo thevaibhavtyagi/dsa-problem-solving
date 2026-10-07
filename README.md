@@ -80,6 +80,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0022-generate-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0678-valid-parenthesis-string) |
@@ -210,6 +211,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0022-generate-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0301-remove-invalid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -287,4 +289,8 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
