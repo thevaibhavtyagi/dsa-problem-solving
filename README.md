@@ -41,6 +41,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [3876-construct-uniform-parity-array-ii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3904-smallest-stable-index-ii) |
+| [3979-maximum-valid-pair-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3979-maximum-valid-pair-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3979-maximum-valid-pair-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3979-maximum-valid-pair-sum) |
 ## Prefix Sum
 |  |
 | ------- |
