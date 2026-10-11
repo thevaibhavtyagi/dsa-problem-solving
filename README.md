@@ -32,6 +32,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [2149-rearrange-array-elements-by-sign](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2615-sum-of-distances) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
@@ -122,6 +123,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
