@@ -26,6 +26,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0724-find-pivot-index](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -145,6 +146,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0788-rotated-digits](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0788-rotated-digits) |
 | [0866-prime-palindrome](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0866-prime-palindrome) |
 | [1927-sum-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1927-sum-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -170,6 +172,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | ------- |
 | [0204-count-primes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0866-prime-palindrome) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
 | ------- |
@@ -305,4 +308,12 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0301-remove-invalid-parentheses) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
