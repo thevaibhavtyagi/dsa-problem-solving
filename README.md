@@ -141,6 +141,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0204-count-primes) |
 | [0788-rotated-digits](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0788-rotated-digits) |
