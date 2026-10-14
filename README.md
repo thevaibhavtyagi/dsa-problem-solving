@@ -153,6 +153,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [2235-add-two-integers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -166,6 +167,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [2078-two-furthest-houses-with-different-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Game Theory
 |  |
 | ------- |
