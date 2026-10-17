@@ -21,6 +21,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0204-count-primes) |
 | [0622-design-circular-queue](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0704-binary-search) |
@@ -147,6 +148,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | ------- |
 | [0009-palindrome-number](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0204-count-primes) |
 | [0788-rotated-digits](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0788-rotated-digits) |
 | [0866-prime-palindrome](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0866-prime-palindrome) |
@@ -205,6 +207,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0075-sort-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0234-palindrome-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
