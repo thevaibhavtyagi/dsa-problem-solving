@@ -87,6 +87,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0020-valid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
