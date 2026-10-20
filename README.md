@@ -87,6 +87,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0003-longest-substring-without-repeating-characters](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
@@ -207,6 +208,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0148-sort-list) |
@@ -337,4 +339,20 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0739-daily-temperatures) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
