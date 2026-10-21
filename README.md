@@ -104,6 +104,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [1927-sum-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1927-sum-game) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
 | ------- |
