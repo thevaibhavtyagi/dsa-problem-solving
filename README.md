@@ -35,6 +35,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [2078-two-furthest-houses-with-different-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2615-sum-of-distances) |
@@ -120,6 +121,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0242-valid-anagram](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Simulation
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [1927-sum-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Game Theory
