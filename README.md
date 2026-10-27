@@ -161,6 +161,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0050-powx-n](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0204-count-primes) |
+| [0292-nim-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0292-nim-game) |
 | [0788-rotated-digits](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0788-rotated-digits) |
 | [0866-prime-palindrome](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0866-prime-palindrome) |
 | [1927-sum-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1927-sum-game) |
@@ -188,6 +189,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0292-nim-game) |
 | [1927-sum-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1927-sum-game) |
 ## Number Theory
 |  |
@@ -374,4 +376,20 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1254-number-of-closed-islands) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
