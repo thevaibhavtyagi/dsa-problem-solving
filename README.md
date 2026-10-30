@@ -378,6 +378,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Depth-First Search
 |  |
 | ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
@@ -399,4 +400,12 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0292-nim-game) |
+## Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
