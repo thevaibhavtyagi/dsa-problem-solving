@@ -103,6 +103,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0856-score-of-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -242,6 +243,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0856-score-of-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
