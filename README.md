@@ -49,6 +49,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -178,6 +179,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3876-construct-uniform-parity-array-ii) |
