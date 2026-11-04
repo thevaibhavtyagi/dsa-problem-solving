@@ -49,6 +49,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3689-maximum-total-subarray-value-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3689-maximum-total-subarray-value-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
@@ -194,6 +195,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3689-maximum-total-subarray-value-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Game Theory
