@@ -52,6 +52,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [3689-maximum-total-subarray-value-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3689-maximum-total-subarray-value-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3838-weighted-word-mapping](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3903-smallest-stable-index-i) |
@@ -114,6 +115,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [2409-count-days-spent-together](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2409-count-days-spent-together) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3838-weighted-word-mapping](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3838-weighted-word-mapping) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
@@ -137,6 +139,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [2149-rearrange-array-elements-by-sign](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3838-weighted-word-mapping](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
 | ------- |
