@@ -31,6 +31,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
 | [1254-number-of-closed-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1882-process-tasks-using-servers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -324,6 +325,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1882-process-tasks-using-servers) |
 ## Merge Sort
 |  |
 | ------- |
