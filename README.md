@@ -51,6 +51,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3689-maximum-total-subarray-value-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3838-weighted-word-mapping) |
@@ -301,6 +302,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0678-valid-parenthesis-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0788-rotated-digits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3693-climbing-stairs-ii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3693-climbing-stairs-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
