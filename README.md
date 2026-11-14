@@ -45,6 +45,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -164,6 +165,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [1991-find-the-middle-index-in-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2615-sum-of-distances) |
+| [3364-minimum-positive-sum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
 | [3903-smallest-stable-index-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3904-smallest-stable-index-ii) |
@@ -323,6 +325,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
