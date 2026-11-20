@@ -55,6 +55,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [3689-maximum-total-subarray-value-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
@@ -77,6 +78,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Linked List
 |  |
@@ -171,6 +173,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [2615-sum-of-distances](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2615-sum-of-distances) |
 | [3364-minimum-positive-sum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -240,6 +243,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0387-first-unique-character-in-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1189-maximum-number-of-balloons) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -300,6 +304,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0148-sort-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -341,6 +346,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | ------- |
 | [0148-sort-list](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -431,4 +437,8 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
