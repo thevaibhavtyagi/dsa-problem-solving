@@ -46,6 +46,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
@@ -76,6 +77,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2615-sum-of-distances](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -122,6 +124,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [1927-sum-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2409-count-days-spent-together) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3838-weighted-word-mapping) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -409,6 +412,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Union-Find
 |  |
 | ------- |
@@ -433,6 +437,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
