@@ -23,6 +23,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0162-find-peak-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0622-design-circular-queue](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0622-design-circular-queue) |
@@ -158,6 +159,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | ------- |
 | [0054-spiral-matrix](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1254-number-of-closed-islands) |
 | [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
 ## Enumeration
@@ -380,6 +382,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1254-number-of-closed-islands) |
 ## Euclidean Algorithm
@@ -413,12 +416,14 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0200-number-of-islands) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1254-number-of-closed-islands) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1254-number-of-closed-islands) |
 ## Brainteaser
 |  |
