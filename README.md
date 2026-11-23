@@ -33,6 +33,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0739-daily-temperatures](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1732-find-the-highest-altitude](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1732-find-the-highest-altitude) |
@@ -164,6 +165,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0200-number-of-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1254-number-of-closed-islands) |
 | [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
 ## Enumeration
@@ -391,6 +393,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0301-remove-invalid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1254-number-of-closed-islands) |
 ## Euclidean Algorithm
 |  |
