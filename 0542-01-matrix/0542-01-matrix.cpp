@@ -17,28 +17,43 @@ public:
             }
         }
 
+        int dx[] = {-1, 1, 0, 0};
+        int dy[] = {0, 0, -1, 1};
+
         while(!q.empty()) {
             int row = q.front().first;
             int col = q.front().second;
 
             q.pop();
 
-            if(row - 1 >= 0 && ans[row - 1][col] == -1){
-                ans[row - 1][col] = ans[row][col] + 1 ;
-                q.push({row - 1, col});
-            }
+            for(int i = 0; i < 4; i++) {
+                int newRow = row + dx[i];
+                int newCol = col + dy[i];
+            
 
-            if(row + 1 < m && ans[row + 1][col] == -1){
-                ans[row + 1][col] = ans[row][col] + 1;
-                q.push({row + 1, col});
-            }
-            if(col - 1 >= 0 && ans[row][col - 1] == -1){
-                ans[row][col - 1] = ans[row][col] + 1;
-                q.push({row, col - 1});
-            }
-            if(col + 1 < n && ans[row][col + 1] == -1){
-               ans[row][col + 1] = ans[row][col] + 1; 
-                q.push({row, col + 1});
+                if(newRow >= 0 && newRow < m && newCol >= 0 && newCol < n && ans[newRow][newCol] == -1) {
+                    ans[newRow][newCol] = ans[row][col] + 1;
+                    q.push({newRow, newCol});
+                }
+
+            // if(row - 1 >= 0 && ans[row - 1][col] == -1){
+            //     ans[row - 1][col] = ans[row][col] + 1 ;
+            //     q.push({row - 1, col});
+            // }
+
+            // if(row + 1 < m && ans[row + 1][col] == -1){
+            //     ans[row + 1][col] = ans[row][col] + 1;
+            //     q.push({row + 1, col});
+            // }
+            // if(col - 1 >= 0 && ans[row][col - 1] == -1){
+            //     ans[row][col - 1] = ans[row][col] + 1;
+            //     q.push({row, col - 1});
+            // }
+            // if(col + 1 < n && ans[row][col + 1] == -1){
+            //    ans[row][col + 1] = ans[row][col] + 1; 
+            //     q.push({row, col + 1});
+            // }
+
             }
         }
 
