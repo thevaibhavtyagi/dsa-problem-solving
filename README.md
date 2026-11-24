@@ -53,6 +53,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -173,6 +174,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | ------- |
 | [0204-count-primes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -205,6 +207,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -237,6 +240,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0204-count-primes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0866-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
@@ -351,6 +355,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [0003-longest-substring-without-repeating-characters](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
