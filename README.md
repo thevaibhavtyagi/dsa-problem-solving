@@ -394,6 +394,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0542-01-matrix) |
@@ -431,6 +432,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0200-number-of-islands) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1254-number-of-closed-islands) |
@@ -459,11 +461,13 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Segment Tree
 |  |
