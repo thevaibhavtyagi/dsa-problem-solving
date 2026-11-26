@@ -157,6 +157,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [2149-rearrange-array-elements-by-sign](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3360-stone-removal-game) |
 | [3838-weighted-word-mapping](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
@@ -207,6 +208,7 @@ Documenting my daily journey of mastering Data Structures &amp; Algorithms, patt
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thevaibhavtyagi/dsa-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
